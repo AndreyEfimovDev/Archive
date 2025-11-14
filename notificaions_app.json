@@ -1,7 +1,13 @@
 [
   {
     "isRead" : false,
-    "noticeMessage" : "New App release is availavle.",
+    "noticeMessage" : "New App release 01.01.02 is availavle.",
+    "noticeDate" : "2025-11-10T13:45:07Z",
+    "id" : "2025-11-10T13:45:07Z"
+  },
+  {
+    "isRead" : false,
+    "noticeMessage" : "New App release 01.01.01 is availavle.",
     "noticeDate" : "2025-11-09T13:45:07Z",
     "id" : "2025-11-09T13:45:07Z"
   },
