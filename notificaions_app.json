@@ -1,0 +1,7 @@
+[
+  {
+    "noteMessage" : "In this video we are going to explore how we can stylize text for our Text views in SwiftUI.\nWe will start by looking at how we can create a `Text` view with the Markdown-formatted base postLanguage version of the string as the localization key,\nWe will also see how we can utilize string interpolation to combine and stylize our strings and present them in a text view.\nAnd finally, we will take a quick look at the power of Attributed strings in SwiftUI.",
+    "noteDate" : "2025-11-08T13:45:07Z",
+    "id" : "2025-11-08T13:45:07Z"
+  }
+]
