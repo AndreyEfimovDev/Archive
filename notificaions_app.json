@@ -1,30 +1,9 @@
 [
   {
     "isRead" : false,
-    "title" : "Initial Launch test for middle size title The app in version 01.01.01 has been uploaded",
-    "noticeMessage" : "The app in version 01.01.01 has been uploaded to Apple Storage.",
-    "noticeDate" : "2025-11-20T13:45:07Z",
-    "id" : "2025-11-20T13:45:07Z"
-  },
-  {
-    "isRead" : false,
-    "title" : "Initial Launch test for middle size title The app in version 01.01.01 has been uploaded",
-    "noticeMessage" : "The app in version 01.01.01 has been uploaded to Apple Storage.",
-    "noticeDate" : "2025-11-19T13:45:07Z",
-    "id" : "2025-11-19T13:45:07Z"
-  },
-  {
-    "isRead" : false,
-    "title" : "Initial Launch test for middle size title",
-    "noticeMessage" : "The app in version 01.01.01 has been uploaded to Apple Storage.",
-    "noticeDate" : "2025-11-18T13:45:07Z",
-    "id" : "2025-11-18T13:45:07Z"
-  },
-  {
-    "isRead" : false,
     "title" : "Initial Launch",
-    "noticeMessage" : "The app in version 01.01.01 has been uploaded to Apple Storage.",
-    "noticeDate" : "2025-11-17T13:45:07Z",
-    "id" : "2025-11-17T13:45:07Z"
+    "noticeMessage" : "The Application version 01.01.01 has been uploaded to Apple Storage.",
+    "noticeDate" : "2025-11-17T00:01:08Z",
+    "id" : "2025-11-17T00:01:08Z"
   }
 ]
