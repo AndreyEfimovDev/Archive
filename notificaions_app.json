@@ -1,16 +1,9 @@
 [
   {
     "isRead" : false,
-    "title" : "Version 1.0.1 (2) released.",
-    "noticeMessage" : "A new feature for sorting materials has been implemented with the following options:\n- Unordered\n- Newest\n- Oldest\n- Random\n\nThe feature can be find in the Filters.",
+    "title" : "Initial Launch",
+    "noticeMessage" : "The App version 1.0.1(4) has been successfully deployed to the Apple Store.",
     "noticeDate" : "2025-11-29T00:01:08Z",
     "id" : "2025-11-29T00:01:08Z"
-  },
-  {
-    "isRead" : false,
-    "title" : "Initial Launch",
-    "noticeMessage" : "The Application version 01.00.00 (1) has been submitted to Apple Store.",
-    "noticeDate" : "2025-11-27T00:01:08Z",
-    "id" : "2025-11-27T00:01:08Z"
   }
 ]
