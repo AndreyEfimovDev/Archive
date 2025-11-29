@@ -2,7 +2,7 @@
   {
     "isRead" : false,
     "title" : "Version 1.0.1 (2) released.",
-    "noticeMessage" : "A new feature for sorting materials has been implemented with the following options:\n- Unordered\n- Newest\n- Oldest\n- Random",
+    "noticeMessage" : "A new feature for sorting materials has been implemented with the following options:\n- Unordered\n- Newest\n- Oldest\n- Random\n\nThe feature can be find in the Filters.",
     "noticeDate" : "2025-11-29T00:01:08Z",
     "id" : "2025-11-29T00:01:08Z"
   },
