@@ -1,9 +1,9 @@
 [
   {
     "isRead" : false,
-    "title" : "Initial Launch",
-    "noticeMessage" : "The App version 1.0.1 is deployed to the App Store.",
-    "noticeDate" : "2025-12-01T00:01:08Z",
-    "id" : "2025-12-01T00:01:08Z"
+    "title" : "Version 1.1.2(2) released.",
+    "noticeMessage" : "Improved cloud data synchronisation across devices.\n\nAdded sorting study materials filter:\n- Newest\n- Oldest\n\Other minor UX enhancements.",
+    "noticeDate" : "2026-02-07T00:01:08Z",
+    "id" : "2026-02-07T00:01:08Z"
   }
 ]
