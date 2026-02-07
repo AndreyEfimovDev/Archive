@@ -1,8 +1,8 @@
 [
   {
     "isRead" : false,
-    "title" : "App v1.1.2(2) released",
-    "noticeMessage" : "- Improved cloud data synchronisation across devices.\n- Added sorting study materials filter: newest and oldest\n- Other minor UX enhancements.",
+    "title" : "Version 1.1.2(2) is now available.",
+    "noticeMessage" : "Improved cross-device cloud synchronisation\n- Added sorting options for study materials (newest/oldest)\n- Minor UX enhancements",
     "noticeDate" : "2026-02-07T00:01:08Z",
     "id" : "2026-02-07T00:01:08Z"
   }
