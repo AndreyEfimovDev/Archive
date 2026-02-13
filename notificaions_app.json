@@ -1,4 +1,10 @@
-[
+[{
+    "isRead" : false,
+    "title" : "New study materials are available",
+    "noticeMessage" : "Two new course have been added to the curated collection:\n - SwiftUI Continued Learning (Intermediate Level)\n- Swift Concurrency (Intermediate Level)",
+    "noticeDate" : "2026-02-13T00:01:08Z",
+    "id" : "2026-02-13T00:01:08Z"
+  },
   {
     "isRead" : false,
     "title" : "New App update 1.1.2(2) is available",
