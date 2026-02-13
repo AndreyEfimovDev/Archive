@@ -1,4 +1,12 @@
-[{
+[
+    {
+    "isRead" : false,
+    "title" : "TEST push notification",
+    "noticeMessage" : "Notice Message Test",
+    "noticeDate" : "2026-02-13T18:40:08Z",
+    "id" : "2026-02-13T18:40:08Z"
+  },
+  {
     "isRead" : false,
     "title" : "New study materials are available",
     "noticeMessage" : "Two new courses have been added to the curated collection:\n - SwiftUI Continued Learning (Intermediate Level)\n- Swift Concurrency (Intermediate Level)",
