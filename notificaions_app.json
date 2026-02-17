@@ -1,31 +1,10 @@
 [
   {
     "isRead" : false,
-    "title" : "TEST4 push notification",
-    "noticeMessage" : "Notice Message Test 4",
-    "noticeDate" : "2026-02-14T14:00:00Z",
-    "id" : "2026-02-14T14:00:00Z"
-  },
-  {
-    "isRead" : false,
-    "title" : "TEST3 push notification",
-    "noticeMessage" : "Notice Message Test 3",
-    "noticeDate" : "2026-02-14T13:00:00Z",
-    "id" : "2026-02-14T13:00:00Z"
-  },
-  {
-    "isRead" : false,
-    "title" : "TEST2 push notification",
-    "noticeMessage" : "Notice Message Test 2",
-    "noticeDate" : "2026-02-14T12:00:00Z",
-    "id" : "2026-02-14T12:00:00Z"
-  },
-    {
-    "isRead" : false,
-    "title" : "TEST push notification",
-    "noticeMessage" : "Notice Message Test",
-    "noticeDate" : "2026-02-14T11:08:09Z",
-    "id" : "2026-02-14T11:08:09Z"
+    "title" : "New App update 1.2.1(3) is available",
+    "noticeMessage" : "- Added an option "Original" (not sorted) for materials filter\n- Minor UX enhancements",
+    "noticeDate" : "2026-02-15T00:01:08Z",
+    "id" : "2026-02-15T00:01:08Z"
   },
   {
     "isRead" : false,
